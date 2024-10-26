@@ -26,4 +26,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: omarjabloun11/unit_test_ci_app
+          tags: omarjabloun11/unit_test_ci_app :latest
